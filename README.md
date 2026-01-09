@@ -11,7 +11,7 @@ Brute-Force Protection: Implements PBKDF2 Key Stretching with 50,000 SHA-256 ite
 Obfuscation Layers: Custom transformation chain
 
 ## CRITICAL WARNINGS (READ BEFORE USE)
-- CAUTION -
+CAUTION 
 
 1. HARDWARE LOCK-IN
 This library creates an encryption key tied to your specific hardware. Result: A file encrypted on "PC A" CANNOT be decrypted on "PC B", even with the correct password. If you replace your CPU or Motherboard, your encrypted data will be permanently inaccessible.
