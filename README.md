@@ -19,6 +19,8 @@ This library creates an encryption key tied to your specific hardware. Result: A
 2. NO RECOVERY POSSIBLE
 There is no "Password Recovery" or "Backdoor". If the password is lost or the hardware identity changes, the data is mathematically impossible to recover. Always keep a plaintext backup of vital information in a separate secure location.
 
+A USB image for XELA/MELA will be available to unlock locked systems. However, this will only be for developers and will not be freely available.
+
 ## Installation & Requirements
 Prerequisites
 .NET Framework 4.8+ or .NET 6.0/8.0+ (Windows only)
