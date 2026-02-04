@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Demo - Cryption"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc5647c69a4dd88708cf18da2897870029c55ba5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bec5d73d6e81fc414033a588feca2d1fbca5297"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Demo - Cryption"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Demo - Cryption"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
