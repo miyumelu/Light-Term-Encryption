@@ -27,7 +27,7 @@ Obfuscation Layers: Custom transformation chain
 
 ## Installation & Requirements
 Prerequisites
-.NET 6.0/8.0+ (Windows only)
+.NET 8.0+ (Windows only)
 
 NuGet Package: System.Management (Will soon merge with Fintou Resources)
 
